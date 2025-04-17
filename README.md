@@ -17,6 +17,12 @@ This project provisions a **secure and scalable VPC** infrastructure using **Inf
 - **VPC Flow Logs** for capturing and storing information about the network traffic within the VPC, ensuring the infrastructure is auditable.
 - **CloudWatch Monitoring** for observing performance metrics and setting up alarms to monitor resource utilization, making the infrastructure auditable and observable.
 
+## 📝 Blog Post
+For a detailed walkthrough and architecture explanation, check out my blog post on Medium:<br>
+**👉 [Read the full blog here](https://medium.com/@zer0vuln/secure-aws-vpc-architecture-with-bastion-host-using-terraform-7704ead2abdb)**
+
+
+
 ## 🖼️ Architecture Diagram
 
 The visual below illustrates the full architecture:
